@@ -1,21 +1,21 @@
-# Iconos con Gocey Effect
+# Iconos con Gooey Effect
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br/>
 
-[![Imagen de los iconos con Gocey Effect](https://github.com/CrisCorreaS/gocey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)](https://criscorreas.github.io/gocey-effect/)
+[![Imagen de los iconos con Gooey Effect](https://github.com/CrisCorreaS/gooey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)](https://criscorreas.github.io/gooey-effect/)
 
-Estos iconos con Gocey Effect, están inspirados en ["Gocey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
+Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
 
 ## Vista Previa
 
-### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/gocey-effect/)**
+### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/gooey-effect/)**
 
 #### Vista de los iconos
-![Vista previa de los iconos con Gocey Effect](https://github.com/CrisCorreaS/gocey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)
+![Vista previa de los iconos con Gooey Effect](https://github.com/CrisCorreaS/gooey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)
 
 ## Características
 
 - **Interfaz:** Diseño sencillo y minimalista.
-- **Animación de los iconos:** Gocey Effect.
+- **Animación de los iconos:** Gooey Effect.
 
 ## Tecnologías Utilizadas
 
@@ -27,7 +27,7 @@ Estos iconos con Gocey Effect, están inspirados en ["Gocey Effect" de Frontend 
 1. Descarga o clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 
-¡Y eso es todo! Ahora cualquier persona puede usar iconos con Gocey Effect.
+¡Y eso es todo! Ahora cualquier persona puede usar iconos con Gooey Effect.
 
 ## Contribuciones
 
@@ -39,7 +39,7 @@ Este proyecto tiene como objetivo principal el aprendizaje de tecnologías para 
 
 ## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["Gocey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/),
+- ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/),
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
 - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
