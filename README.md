@@ -3,7 +3,7 @@
 
 [![Imagen de los iconos con Gooey Effect](https://github.com/CrisCorreaS/gooey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)](https://criscorreas.github.io/gooey-effect/)
 
-Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
+Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gooey-effect/), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
 
 ## Vista Previa
 
@@ -39,10 +39,9 @@ Este proyecto tiene como objetivo principal el aprendizaje de tecnologías para 
 
 ## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/),
+- ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gooey-effect/),
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
-- [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+- [Stack Overflow: Display a footer](https://stackoverflow.com/questions/15960290/css-footer-not-displaying-at-the-bottom-of-the-page)
 - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
 - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
