@@ -24,6 +24,7 @@ Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend 
 
 - HTML
 - CSS
+- JavaScript
 
 ## Cómo Usar
 
