@@ -1,5 +1,5 @@
 # Iconos con Gooey Effect
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br/>
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
 
 [![Imagen de los iconos con Gooey Effect](https://github.com/CrisCorreaS/gooey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)](https://criscorreas.github.io/gooey-effect/)
 
