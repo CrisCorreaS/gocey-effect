@@ -12,6 +12,9 @@ Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend 
 #### Vista de los iconos
 ![Vista previa de los iconos con Gooey Effect](https://github.com/CrisCorreaS/gooey-effect/blob/main/img/visualizaci%C3%B3n/iconos-vista.png)
 
+#### Vista de las funcionalidades:
+![Vista previa del comportamiento de los iconos](https://github.com/CrisCorreaS/gooey-effect/blob/main/video/features.gif)
+
 ## Características
 
 - **Interfaz:** Diseño sencillo y minimalista.
