@@ -22,7 +22,7 @@ Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend 
 ## 🌱 Características
 
 - **Interfaz:** Diseño sencillo y minimalista.
-- **Animación de los iconos:** Gooey Effect.
+- **Animación de los iconos:** Utiliza el efecto "Gooey". En el primer conjunto, los iconos aparecen y desaparecen siempre en el eje horizontal; en el segundo conjunto, los iconos aparecen rodeando al icono central en sentido horario.
 
 ## 🛠️ Tecnologías Utilizadas
 
