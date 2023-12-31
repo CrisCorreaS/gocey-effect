@@ -30,6 +30,22 @@ Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend 
 - CSS
 - JavaScript
 
+## 🔎💡 Información
+> [!IMPORTANT]
+> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML o CSS.
+> - **Nivel de dificultad del proyecto:** 🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕ (1 sobre 10)
+
+> [!TIP]
+> A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
+> - ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/)
+> - CSS:
+>    - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+>    - [Stack Overflow: Display a footer](https://stackoverflow.com/questions/15960290/css-footer-not-displaying-at-the-bottom-of-the-page)
+> - Font Awesome
+>    - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+>    - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
+
+
 ## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
@@ -44,16 +60,6 @@ Estos iconos con Gooey Effect, están inspirados en ["Gooey Effect" de Frontend 
 ## 🎯 Propósito del Proyecto
 
 Este proyecto tiene como objetivo principal el aprendizaje de tecnologías para mejorar en el plano del desarrollo web.
-
-## 👌 Recursos Utilizados
-A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["Gooey Effect" de Frontend Projects](https://frontendsprojects.com/gocey-effect/)
-- CSS:
-  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-  - [Stack Overflow: Display a footer](https://stackoverflow.com/questions/15960290/css-footer-not-displaying-at-the-bottom-of-the-page)
-- Font Awesome
-  - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
-  - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
 ## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
